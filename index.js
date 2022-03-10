@@ -38,3 +38,24 @@
 // for (const char of name) {
 //   console.log(char)
 // }
+
+// const adder = (a, b) => {
+//   console.log(a + b)
+// }
+
+// const adder = (...nums) => {
+//   let sum = 0
+//   for (const num of nums) {
+//     sum += num
+//   }
+//   console.log(sum)
+// }
+
+// adder(5, 7, 12, 4, 315, 6, 7, 80, 11, 1)
+// adder(123, 654, 7456, 345, 23, 123, 654, 7456, 345, 23, 123, 654, 7456, 345, 23, 123, 654, 7456, 345, 23, 123, 654, 7456, 345, 23, 123, 654, 7456, 345, 23, 123, 654, 7456, 345, 23, 123, 654, 7456, 345, 23)
+
+// const small = ['d', 'e', 'f', 'g']
+
+// const large = ['a', 'b', 'c', ...small, 'h', 'i', 'j', 'k', 'l']
+
+// console.log(large)
