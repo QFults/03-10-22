@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/QFults/03-10-22#readme",
   "dependencies": {
-    "chalk": "^4.0.0"
+    "chalk": "^4.0.0",
+    "inquirer": "^8.2.1"
   }
 }
